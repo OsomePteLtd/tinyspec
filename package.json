@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "glob": "^7.1.2",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "lodash-inflection": "^1.5.0",
     "yamljs": "^0.2.8",
     "yargs": "^11.0.0"
